@@ -1,0 +1,6 @@
+flask
+flask-cors
+websockets
+mysql-connector-python
+gunicorn
+eventlet
