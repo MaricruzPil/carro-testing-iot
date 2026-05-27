@@ -160,3 +160,6 @@ class WebSocketServer:
         frame.extend(encoded)
 
         client.send(frame)
+
+        if __name__ == '__main__':
+            WebSocketServer.start()
