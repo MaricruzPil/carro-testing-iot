@@ -161,5 +161,5 @@ class WebSocketServer:
 
         client.send(frame)
 
-        if __name__ == '__main__':
-            WebSocketServer.start()
+if __name__ == '__main__':
+    WebSocketServer.start()
