@@ -3,4 +3,3 @@ flask-cors
 websockets
 mysql-connector-python
 gunicorn
-gevent
